@@ -1,0 +1,46 @@
+    Oracle Database ? 
+=>  Oracle Database  is the  relational database management system developed by Oracle Corporation.
+	It supports the Structured Query Language (SQL) as its primary query language for interacting with databases.
+
+
+    Uses for ?
+=>   handle a large amount of data and supports a variety of tasks, including online transaction processing (OLTP) etc.
+
+=>  data recovery, backups, and disaster recovery to ensure the integrity and availability of data.
+
+=>  handle large-scale databases, high transaction volumes, and complex queries while maintaining speed and reliability.
+
+
+   
+ SQL for oracle: 
+
+      A)    DDl(Data Defination Language) -|
+  1) Create command
+	\*  to create tables in the oracle database server */
+	 Syntax : 
+		Create table tablename(
+
+			fieldsname datatype
+
+				);
+
+
+		example: 
+				create table Menu(
+                                  Menu_id int
+					);
+
+
+   2) Drop command 
+	\*  to delete tables in the oracle database server */
+
+ Syntax : 
+	Drop table tablename;
+
+		example: 
+			drop table Menu;
+
+
+
+
+						
