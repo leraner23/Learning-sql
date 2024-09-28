@@ -7,14 +7,15 @@ Welcome to my Learning SQL repository! This repository is a personal collection 
 
 The main goal of this repository is to document my progress in learning SQL, with a focus on understanding database management.
 
-## Practice References 
+# Practice References 
 
 * [Hackerrank-SQL](https://shorturl.at/Z2k4O)
 * https://www.sql-practice.com
-
-  ## How to Use
+  
+# How to Use
   
 * Feel free to explore the contents of this repository. 
 
-  ## Refrences
+ 
+# Refrences
   * Manish-Royan  ==>  https://github.com/Manish-Royan 
