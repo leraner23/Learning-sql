@@ -17,5 +17,5 @@ The main goal of this repository is to document my progress in learning SQL, wit
 * Feel free to explore the contents of this repository. 
 
  
-# Refrences
+# References
   * Manish-Royan  ==>  https://github.com/Manish-Royan 
